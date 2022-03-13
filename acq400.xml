@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote> name="ACQ420FMC" fetch="https://github.com/petermilne/ACQ420FMC.git"/>
+	<default sync-j="4"/>
+	<project remote="ACQ420FMC" name="ACQ420FMC" path="sources/ACQ420FMC"/>
+</manifest>
