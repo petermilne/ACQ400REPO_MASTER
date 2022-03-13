@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<remote name="petermilne" fetch="https://github.com/petermilne"/>
+	<remote name="petermilne" 	fetch="https://github.com/petermilne"/>
 	<default revision="refs/heads/main" sync-j="4"/>
 	<project remote="petermilne" name="ACQ420FMC" path="sources/ACQ420FMC"/>
+	<project remote="petermilne" name="ACQ400COMMON" path="sources/ACQ400COMMON"/>
+	<project remote="petermilne" name="Z7IO" path="sources/Z7IO"/>
 </manifest>
