@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 	<remote name="petermilne" fetch="https://github.com/petermilne"/>
-	<default sync-j="4"/>
+	<default revision="refs/heads/main" sync-j="4"/>
 	<project remote="petermilne" revision="r220308140709" name="ACQ420FMC" path="sources/ACQ420FMC"/>
 </manifest>
